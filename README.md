@@ -7,8 +7,9 @@
 
 
 ## Project Description:
-- A Content Based Recommender System: Recommends movies similar to the movie user likes and provide further details on the choosen film.
-- Sentiments Analysis: Based on the users comments & reviews scrapped from the IMDB site using beautifulsoup4.
+-A Content-Based Recommender System: Recommends movies similar to the movie user likes and provide further details on the chosen film.
+
+-Sentiments Analysis: Based on the user's comments & reviews scrapped from the IMDB site using beautifulsoup4.
 
 *NB* : The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB(https://www.themoviedb.org/documentation/api), and using the IMDB id of the movie in the API.
  
